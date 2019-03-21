@@ -8,16 +8,16 @@ Team Members
 Name: Anjana Manoj
 Class: Cse A
 Roll no: 15csa07
-Module done:Static Web Hosting
+Module done:Launch EC2 Instances
 
 Name: Aiswarya M
 Class: Cse A
 Roll no: 15csa03
-Module done: User Management
+Module done: Resource Termination
 
 Name: Deepthi K T
 Class: Cse A
 Roll no: 15csa14
-Module done: Serverless Backend
+Module done: Launch Web Server
 
 Module Pending: Restful APIs
