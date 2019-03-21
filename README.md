@@ -5,19 +5,26 @@ Cloud Computing has been intended as the future-generation technology of an IT e
 
 Team Members
 ==============
+Name: Aiswarya M
+Class: Cse A
+Roll no: 15csa03
+Module done: User Interface design
+
+
 Name: Anjana Manoj
 Class: Cse A
 Roll no: 15csa07
 Module done:Launch EC2 Instances
 
-Name: Aiswarya M
-Class: Cse A
-Roll no: 15csa03
-Module done: Resource Termination
+
 
 Name: Deepthi K T
 Class: Cse A
 Roll no: 15csa14
 Module done: Launch Web Server
+Create a Virtual machine to launch a Web server. After creating a Remote Desktop we have to access the Web server from the Network Administrator. At the topright we have a manage option click on it. Now install the Web Server. Now open the Internet Information Services.
+We have a inetpub folder in which the root folder is accessed. The web application is hosted in that root folder.
+Now for accessing theWebpage a url is generated.
 
-Module Pending: Restful APIs
+
+Module Pending: Resource Termination
