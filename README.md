@@ -17,6 +17,45 @@ Class: Cse A
 Roll no: 15csa07
 Module done:Launch EC2 Instances
 
+Open the Amazon EC2 console at the aws management console
+
+Choose Launch Instance.
+
+In Step 1: Choose an Amazon Machine Image (AMI), find an Amazon Linux AMI at the top of the list and choose Select.
+
+In Step 2: Choose an Instance Type, choose Next: Configure Instance Details.
+
+In Step 3: Configure Instance Details, choose Network, and then choose the entry for your default VPC.
+
+Choose Subnet, and then choose a subnet in any Availability Zone.
+
+Choose Next: Add Storage.
+
+Choose Next: Tag Instance.
+
+Name your instance and choose Next: Configure Security Group.
+
+In Step 6: Configure Security Group, review the contents of this page, ensure that Assign a security group is set to Create a new security group, and verify that the inbound rule being created has the following default values.
+
+Type: RDP
+
+Protocol: HTTP
+
+Port Range: 22
+
+Source: Anywhere 0.0.0.0/0
+
+Choose Review and Launch.
+
+Choose Launch.
+
+Select the check box for the key pair that you created, and then choose Launch Instances.
+
+Choose View Instances.
+Wait for the instance to run.
+choose the pem file that have been saved in the desktop and give username and password the virtual machine will be created.
+
+
 
 
 Name: Deepthi K T
