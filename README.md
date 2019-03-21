@@ -9,7 +9,7 @@ Name: Aiswarya M
 Class: Cse A
 Roll no: 15csa03
 Module done: User Interface design
-Created a Web application for the students to know about the Events that are conducted in various colleges. An About page is accessed first which has the institutions in the navigation bar. The events can be viewed in respective college's page as the events may vary for different streams.A Events publish page is created to publish the events. This page is authenticated as everyone don't have the permission to publish. A Faculty Login Page is created to access the details on the students who have attended the events. Then can be able to generate the report of the students who have participated in the events.
+Created a Web application for the students to know about the Events that are conducted in various colleges. A webpage2.html page  is accessed first which has the details about the college and has the institutions in the navigation bar. The events can be viewed in respective college's page as the events may vary for different streams.A Events publish page is created to publish the events. This page is authenticated as everyone don't have the permission to publish. A Faculty Login Page is created to access the details on the students who have attended the events. Then can be able to generate the report of the students who have participated in the events.
 
 
 Name: Anjana Manoj
