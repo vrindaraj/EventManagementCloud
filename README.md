@@ -5,59 +5,32 @@ Cloud Computing has been intended as the future-generation technology of an IT e
 
 Team Members
 ==============
+Name: Aiswarya M
+Class: Cse A
+Roll no: 15csa03
+Module done: User Interface design
+Created a Web application for the students to know about the Events that are conducted in various colleges. An About page is accessed first which has the institutions in the navigation bar. The events can be viewed in respective college's page as the events may vary for different streams.A Events publish page is created to publish the events. This page is authenticated as everyone don't have the permission to publish. A Faculty Login Page is created to access the details on the students who have attended the events. Then can be able to generate the report of the students who have participated in the events.
+
+
 Name: Anjana Manoj
 Class: Cse A
 Roll no: 15csa07
 Module done:Launch EC2 Instances
-Open the Amazon EC2 console at the aws management console
-
-Choose Launch Instance.
-
-In Step 1: Choose an Amazon Machine Image (AMI), find an Amazon Linux AMI at the top of the list and choose Select.
-
-In Step 2: Choose an Instance Type, choose Next: Configure Instance Details.
-
-In Step 3: Configure Instance Details, choose Network, and then choose the entry for your default VPC.
-
-Choose Subnet, and then choose a subnet in any Availability Zone.
-
-Choose Next: Add Storage.
-
-Choose Next: Tag Instance.
-
-Name your instance and choose Next: Configure Security Group.
-
-In Step 6: Configure Security Group, review the contents of this page, ensure that Assign a security group is set to Create a new security group, and verify that the inbound rule being created has the following default values.
-
-Type: RDP
-
-Protocol: HTTP
-
-Port Range: 22
-
-Source: Anywhere 0.0.0.0/0
-
-Choose Review and Launch.
-
-Choose Launch.
-
-Select the check box for the key pair that you created, and then choose Launch Instances.
-
-Choose View Instances.
-Wait for the instance to run.
-choose the pem file that have been saved in the desktop and give username and password the virtual machine will be created.
 
 
-
-
-Name: Aiswarya M
-Class: Cse A
-Roll no: 15csa03
-Module done: User Interface design.
 
 Name: Deepthi K T
 Class: Cse A
 Roll no: 15csa14
 Module done: Launch Web Server
+Create a Virtual machine to launch a Web server. 
+After creating a Remote Desktop we have to access the Web server from the Network Administrator.
+At the topright we have a manage option click on it.
+Now install the Web Server.
+Now open the Internet Information Services.
+We have a inetpub folder in which the root folder is accessed. 
+The web application is hosted in that root folder.
+Now for accessing the Webpage a url is generated.
 
-Module Pending: Resource 
+
+Module Pending: Resource Termination
