@@ -70,13 +70,9 @@ Now open the Internet Information Services.
 We have a inetpub folder in which the root folder is accessed. 
 The web application is hosted in that root folder.
 Now for accessing the Webpage a url is generated.
-
-
 Module Pending: Resource Termination
-FUTURE ENHANCEMENT
-===================
+
+future enhncement:
            This project is focused on establishing the extracurricular activities for the students and in the future the students can apply OD through this web application  directly and also  the OD request  can be approved by the  faculty through this system. And the students can post their own innovations through this system.
           
- percentage completed
- =====================
- We have completed almost 95% of our project.
+percentage completed: We have completed almost 95% of our project.
