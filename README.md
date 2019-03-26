@@ -76,3 +76,10 @@ future enhncement:
           This project is focused on establishing the extracurricular activities for the students and in the future the students can apply OD through this web application  directly and also  the OD request  can be approved by the  faculty through this system. And the students can post their own innovations through this system.
           
 percentage completed:We have completed almost 95% of our project.
+
+
+
+
+DEMOLINK
+=========
+https://www.youtube.com/playlist?list=PLUASeV2e3Loc4i1wcLBp5hem_NNEPVG58
